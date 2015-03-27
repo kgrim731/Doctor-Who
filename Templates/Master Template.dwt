@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Main Homepage</title>
+<title>Untitled Document</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -50,11 +50,6 @@
           <li><a href="../the-companions/ian-chesterton.html">Ian Chesterton</a></li>
           <li><a href="../the-companions/vicki.html">Vicki</a></li>
           <li><a href="../the-companions/steven-taylor.html">Steven Taylor</a></li>
-          <li><a href="../the-companions/katerina.html">Katerina</a></li>
-          <li><a href="../the-companions/sara-kingdom.html">Sara Kingdom</a></li>
-          <li><a href="../the-companions/dodo-chaplet.html">Dodo Chaplet </a></li>
-          <li><a href="../the-companions/polly.html">Polly</a></li>
-          <li><a href="../the-companions/ben-jackson.html">Ben Jackson</a></li>
         <!-- TemplateEndIf -->
       </ul>
       <!-- TemplateBeginEditable name="If The Villains" -->
@@ -72,7 +67,7 @@
       </ul>
       <!-- TemplateEndEditable -->
       <p>&nbsp;</p></td>cf
-    <td><h1>Homepage</h1></td>
+    <td><!-- TemplateBeginEditable name="Content" -->[Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <p>&nbsp;</p>
