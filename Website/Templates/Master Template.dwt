@@ -9,6 +9,7 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateParam name="The Doctors Menu" type="boolean" value="false" -->
 <!-- TemplateParam name="The Companions" type="boolean" value="false" -->
+<!-- TemplateParam name="The Villains" type="boolean" value="false" -->
 </head>
 
 <body>
@@ -50,23 +51,28 @@
           <li><a href="../the-companions/ian-chesterton.html">Ian Chesterton</a></li>
           <li><a href="../the-companions/vicki.html">Vicki</a></li>
           <li><a href="../the-companions/steven-taylor.html">Steven Taylor</a></li>
+          <li><a href="../the-companions/katerina.html">Katerina</a></li>
+          <li><a href="../the-companions/sara-kingdom.html">Sara Kingdom</a></li>
+          <li><a href="../the-companions/dodo-chaplet.html">Dodo Chaplet</a></li>
+          <li><a href="../the-companions/polly.html">Polly</a></li>
+          <li><a href="../the-companions/ben-jackson.html">Ben Jackson</a></li>
         <!-- TemplateEndIf -->
       </ul>
-      <!-- TemplateBeginEditable name="If The Villains" -->
       <ul>
+        <!-- TemplateBeginIf cond="_document['The Villains']" -->
         <li><a href="../the-villains/daleks.html">Daleks</a></li>
-        <li><a href="../the-villains/sensorities.html">Sensorities</a></li>
-        <li><a href="../the-villains/meddling-monk.html">Meddling Monk</a></li>
-        <li><a href="../the-villains/war-machines.html">War Machines</a></li>
-        <li><a href="../the-villains/cybermen.html">Cybermen </a></li>
-        <li><a href="../the-villains/ice-warriors.html">Ice Warriors</a></li>
-        <li><a href="../the-villains/the-master.html">The Master</a></li>
-        <li><a href="../the-villains/davros.html">Davros</a></li>
-        <li><a href="../the-villains/zygons.html">Zygons</a></li>
-        <li><a href="../the-villains/the-rani.html">The Rani</a></li>
+          <li><a href="../the-villains/sensorities.html">Sensorities</a></li>
+          <li><a href="../the-villains/meddling-monk.html">Meddling Monk</a></li>
+          <li><a href="../the-villains/war-machines.html">War Machines</a></li>
+          <li><a href="../the-villains/cybermen.html">Cybermen </a></li>
+          <li><a href="../the-villains/ice-warriors.html">Ice Warriors</a></li>
+          <li><a href="../the-villains/the-master.html">The Master</a></li>
+          <li><a href="../the-villains/davros.html">Davros</a></li>
+          <li><a href="../the-villains/zygons.html">Zygons</a></li>
+          <li><a href="../the-villains/the-rani.html">The Rani</a></li>
+        <!-- TemplateEndIf -->
       </ul>
-      <!-- TemplateEndEditable -->
-      <p>&nbsp;</p></td>cf
+<p>&nbsp;</p></td>cf
     <td><!-- TemplateBeginEditable name="Content" -->[Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
