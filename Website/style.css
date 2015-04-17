@@ -1,2 +1,19 @@
-/* CSS Document */
-
+img {
+	float: left;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+img {
+	float: none;
+}
+.insertimage {
+	float: left;
+	border: 10px solid #666;
+	padding: 25px;
+	background-color: #CCC;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+}
