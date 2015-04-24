@@ -3,6 +3,9 @@ img {
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 2.5em;
+	background-color: #666;
 }
 img {
 	float: none;
@@ -16,4 +19,39 @@ img {
 	margin-right: 50px;
 	margin-bottom: 25px;
 	margin-left: 0px;
+}
+.navselction {
+	background-color: #666;
+	vertical-align: top;
+	width: 30%;
+}
+.newstuff {
+	background-color: #00CCFF;
+	vertical-align: top;
+	width: 30%;
+	letter-spacing: normal;
+	word-spacing: normal;
+}
+.home {
+	background-color: #9FC;
+	width: 25%;
+}
+.doctors {
+	background-color: #9FF;
+	width: 25%;
+}
+.companions {
+	background-color: #FFC;
+	width: 25%;
+}
+.contentarea {
+	background-color: #300;
+	color: #FFF;
+}
+.villains {
+	background-color: #FCC;
+	width: 25%;
+}
+.contentarea {
+	vertical-align: top;
 }

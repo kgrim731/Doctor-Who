@@ -14,67 +14,69 @@
 </head>
 
 <body>
-<table width="1000">
+<table width="950">
   <tr>
-    <td><a href="../index.html">Home</a></td>
-    <td><a href="../the-doctors/index.html">The Doctors</a></td>
-    <td><a href="../the-companions/index.html">The Companions</a></td>
-    <td><a href="../the-villains/index.html">The Villains</a></td>
+    <td class="home"><a href="../index.html" class="home">Home</a></td>
+    <td class="doctors"><a href="../the-doctors/index.html" class="doctors">The Doctors</a></td>
+    <td class="companions"><a href="../the-companions/index.html" class="companions">The Companions</a></td>
+    <td class="villains"><a href="../the-villains/index.html" class="villains">The Villains</a></td>
   </tr>
   <tr>
     <td colspan="4"><!-- TemplateBeginEditable name="Banner Area" -->[banner]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
-<table width="1000">
+<table width="950">
   <tr>
-    <td><ul>
+    <td class="newstuff"><ul>
       <!-- TemplateBeginIf cond="_document['The Doctors Menu']" -->
-        <li><a href="../the-doctors/index.html">The Doctors</a></li>
-        <li><a href="../the-doctors/the-first-doctor.html">The First Doctor</a></li>
-        <li><a href="../the-doctors/the-second-doctor.html">The Second Doctor</a></li>
-        <li><a href="../the-doctors/the-thrid-doctor.html">The Third Doctor</a></li>
-        <li><a href="../the-doctors/the-fourth-doctor.html">The Fourth Doctor</a></li>
-        <li><a href="../the-doctors/the-fifth-doctor.html">The Fifth Doctor</a></li>
-        <li><a href="../the-doctors/the-sixth-doctor.html">The Sixth Doctor</a></li>
-        <li><a href="../the-doctors/the-seventh-doctor.html">The Seventh Doctor</a></li>
-        <li><a href="../the-doctors/the-eigth-doctor.html">The Eigth Doctor</a></li>
-        <li><a href="../the-doctors/the-war-doctor.html">The War Doctor</a></li>
-        <li><a href="../the-doctors/the-ninth-doctor.html">The Ninth Doctor</a></li>
-        <li><a href="../the-doctors/the-tenth-doctor.html">The Tenth Doctor</a></li>
-        <li><a href="../the-doctors/the-eleventh-doctor.html">The Eleventh Dcotor</a></li>
-        <li><a href="../the-doctors/the-twelth-doctor.html">The Twelth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/index.html">The Doctors</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-first-doctor.html">The First Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-second-doctor.html">The Second Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-thrid-doctor.html">The Third Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-fourth-doctor.html">The Fourth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-fifth-doctor.html">The Fifth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-sixth-doctor.html">The Sixth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-seventh-doctor.html">The Seventh Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-eigth-doctor.html">The Eigth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-war-doctor.html">The War Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-ninth-doctor.html">The Ninth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-tenth-doctor.html">The Tenth Doctor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-eleventh-doctor.html">The Eleventh Dcotor</a></li>
+        <li class="newstuff"><a href="../the-doctors/the-twelth-doctor.html">The Twelth Doctor</a></li>
         <!-- TemplateEndIf -->
     </ul> 
       <ul>
-        <!-- TemplateBeginIf cond="_document['The Companions']" -->
-          <li><a href="../the-companions/susan-foreman.html">Susan Foreman</a></li>
-          <li><a href="../the-companions/barbra-wright.html">Barbra Wright</a></li>
-          <li><a href="../the-companions/ian-chesterton.html">Ian Chesterton</a></li>
-          <li><a href="../the-companions/vicki.html">Vicki</a></li>
-          <li><a href="../the-companions/steven-taylor.html">Steven Taylor</a></li>
-          <li><a href="../the-companions/katerina.html">Katerina</a></li>
-          <li><a href="../the-companions/sara-kingdom.html">Sara Kingdom</a></li>
-          <li><a href="../the-companions/dodo-chaplet.html">Dodo Chaplet</a></li>
-          <li><a href="../the-companions/polly.html">Polly</a></li>
-          <li><a href="../the-companions/ben-jackson.html">Ben Jackson</a></li>
+<!-- TemplateBeginIf cond="_document['The Companions']" -->
+          <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions']" -->
+          <li class="newstuff"><a href="../the-companions/susan-foreman.html">Susan Foreman</a></li>
+          <li class="newstuff"><a href="../the-companions/barbra-wright.html">Barbra Wright</a></li>
+          <li class="newstuff"><a href="../the-companions/ian-chesterton.html">Ian Chesterton</a></li>
+          <li class="newstuff"><a href="../the-companions/vicki.html">Vicki</a></li>
+          <li class="newstuff"><a href="../the-companions/steven-taylor.html">Steven Taylor</a></li>
+          <li class="newstuff"><a href="../the-companions/katerina.html">Katerina</a></li>
+          <li class="newstuff"><a href="../the-companions/sara-kingdom.html">Sara Kingdom</a></li>
+          <li class="newstuff"><a href="../the-companions/dodo-chaplet.html">Dodo Chaplet</a></li>
+          <li class="newstuff"><a href="../the-companions/polly.html">Polly</a></li>
+          <li class="newstuff"><a href="../the-companions/ben-jackson.html">Ben Jackson</a></li>
         <!-- TemplateEndIf -->
       </ul>
       <ul>
-        <!-- TemplateBeginIf cond="_document['The Villains']" -->
-        <li><a href="../the-villains/daleks.html">Daleks</a></li>
-          <li><a href="../the-villains/sensorities.html">Sensorities</a></li>
-          <li><a href="../the-villains/meddling-monk.html">Meddling Monk</a></li>
-          <li><a href="../the-villains/war-machines.html">War Machines</a></li>
-          <li><a href="../the-villains/cybermen.html">Cybermen </a></li>
-          <li><a href="../the-villains/ice-warriors.html">Ice Warriors</a></li>
-          <li><a href="../the-villains/the-master.html">The Master</a></li>
-          <li><a href="../the-villains/davros.html">Davros</a></li>
-          <li><a href="../the-villains/zygons.html">Zygons</a></li>
-          <li><a href="../the-villains/the-rani.html">The Rani</a></li>
+<!-- TemplateBeginIf cond="_document['The Villains']" -->
+        <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains']" -->
+        <li class="newstuff"><a href="../the-villains/daleks.html">Daleks</a></li>
+          <li class="newstuff"><a href="../the-villains/sensorities.html">Sensorities</a></li>
+          <li class="newstuff"><a href="../the-villains/meddling-monk.html">Meddling Monk</a></li>
+          <li class="newstuff"><a href="../the-villains/war-machines.html">War Machines</a></li>
+          <li class="newstuff"><a href="../the-villains/cybermen.html">Cybermen </a></li>
+          <li class="newstuff"><a href="../the-villains/ice-warriors.html">Ice Warriors</a></li>
+          <li class="newstuff"><a href="../the-villains/the-master.html">The Master</a></li>
+          <li class="newstuff"><a href="../the-villains/davros.html">Davros</a></li>
+          <li class="newstuff"><a href="../the-villains/zygons.html">Zygons</a></li>
+          <li class="newstuff"><a href="../the-villains/the-rani.html">The Rani</a></li>
         <!-- TemplateEndIf -->
       </ul>
 <p>&nbsp;</p></td>cf
-    <td><!-- TemplateBeginEditable name="Content" -->[Content]<!-- TemplateEndEditable --></td>
+    <td class="contentarea"><!-- TemplateBeginEditable name="Content" -->[Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <p>&nbsp;</p>
